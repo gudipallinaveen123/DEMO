@@ -23,5 +23,5 @@ while (primeArray.length<numPrimes){
     j++;
 }
 
-
+Naveen
 console.log(primeArray);
